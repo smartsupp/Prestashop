@@ -1,13 +1,7 @@
-# Smartsupp plugin: PrestaShop
+# Smartsupp plugin - PrestaShop
 
-Plugin for PrestaShop.
-
-## Versions
-
-* 1.0.6 (PrestaShop 1.5)
-* 2.1.5 (PrestaShop 1.6) 
-* 2.1.5 (PrestaShop 1.7) 
+Read the release info and [download](https://github.com/smartsupp/smartsupp-plugin-prestashop/releases) plugin files.
 
 ## Copyright
 
-Copyright (c) 2017 [Smartsupp.com](https://www.smartsupp.com/)
+Copyright (c) 2018 [Smartsupp.com](https://www.smartsupp.com/)
