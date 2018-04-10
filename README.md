@@ -1,6 +1,6 @@
 # Smartsupp plugin - PrestaShop
 
-Read the release info and [download](https://github.com/smartsupp/smartsupp-plugin-prestashop/releases) plugin files.
+Download plugin files in .ZIP above.
 
 ## Copyright
 
