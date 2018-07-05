@@ -1,6 +1,6 @@
 # Smartsupp plugin - PrestaShop 1.5
 
-Compatibility: 1500 - 1563
+Version compatibility: 1.5.0.0 - 1.5.6.3
 
 ## Copyright
 
