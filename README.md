@@ -1,6 +1,6 @@
-# Smartsupp plugin - PrestaShop
+# Smartsupp plugin - PrestaShop 1.5
 
-Download plugin files in .ZIP above.
+Compatibility: 1500 - 1563
 
 ## Copyright
 
