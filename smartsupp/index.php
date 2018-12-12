@@ -11,7 +11,7 @@
  * Plugin Name:       Smartsupp Live Chat
  * Plugin URI:        http://www.smartsupp.com
  * Description:       Smartsupp live chat module for Prestashop 1.5 and 1.4.7
- * Version:           1.0.4
+ * Version:           1.0.6
  * Author:            Smartsupp
  * Author URI:        http://www.smartsupp.com
  * Text Domain:       smartsupp
